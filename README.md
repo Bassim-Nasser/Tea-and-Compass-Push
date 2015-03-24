@@ -1,1 +1,4 @@
-Readme 
+Review #1
+
+I had some difficulties running the app on Genymotion emulator. I tried to fix the code and group it, but I receive the same error "unfortunately, example has stopped" and "Process: Sending signal. PID: 1143 SIG: 9". After doing some search, it seemed like the app is consuming so much power and that what causes the termination. However, I ran the app on web browser and it seemed it worked just fine but with some flaws. For example, whenever I select tea color I can't go back to choose different one, and that might be because it's running on web browser. In addition, the compass never worked with me, neither on the web nor the emulator, and it says in the book "you will need run this app on a device". However, I assume that the code should run since it's just like the one in the book. 
+I would suggest that to group your code. For example, group the variables together, the functions together and so on. So as a reviewer, I can read them easily. Good job including some comments at the top of some codes. It's really helpful to know what this code is for. 
